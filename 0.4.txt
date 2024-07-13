@@ -1,0 +1,3 @@
+0.4 Uusi muistiinpano
+
+browser-->server: POST https://studies.cs.helsinki.fi/exampleapp/new_note
